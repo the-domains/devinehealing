@@ -1,7 +1,7 @@
 name: DevineHealing
 favicon: null
 layout_spectrum: 0.92378
-typography_spectrum: 0.70694
+typography_spectrum: 0.39213
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.4375
-  lightness: 0.06703325384296477
+  lightness: 0.3125
   saturation: 0.12027741339989007
   rhythmicContrast: 0.7083041884470731
 purpose: []
